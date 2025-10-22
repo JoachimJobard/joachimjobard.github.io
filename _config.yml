@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Joachim Jobard
 description: Nothing to see yet
 plugins: 
-  -jekyll-include-cache
+  - jekyll-include-cache
