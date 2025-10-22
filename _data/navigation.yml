@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Short Bio"
-    url: https://joachimjobard.github.io/shortbio/
+    url: /shortbio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
