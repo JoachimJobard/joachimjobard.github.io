@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
+remote-theme: "mmistakes/minimal-mistakes@4.27.3"
 title: Joachim Jobard
 description: Nothing to see yet
-plugins: 
-  - jekyll-include-cache
+plugins:
+	- jekyll-include-cache
