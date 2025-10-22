@@ -1,6 +1,6 @@
 ---
-layout: single
-author_profile: true
+permalink: /shortbio/
+title: "Short Bio"
 classes: wide
 ---
 
