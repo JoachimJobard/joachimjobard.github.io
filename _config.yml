@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Joachim"
-  avatar           : "assets/images/pp-git.png"
+  avatar           : "/assets/images/pp_git.png"
   bio              : "RL enthusiast"
   location         : "Palaiseau"
   email            : "joachim.jobard@inria.fr"
