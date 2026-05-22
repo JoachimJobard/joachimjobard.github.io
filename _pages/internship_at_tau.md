@@ -1,5 +1,5 @@
 ---
-permalink: /masterthesis/
+permalink: /internship_at_tau/
 title: "Master Thesis"
 classes: wide
 ---
