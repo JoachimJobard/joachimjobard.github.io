@@ -1,9 +1,10 @@
 ---
-title: "Controlling Delayed Systems with Continuous RL"
+permalink: /masterthesis/
+title: "Master Thesis"
 classes: wide
 ---
 
-# Master Thesis
+# Controlling Delayed Systems with Continuous RL
 
 I conducted my Master Thesis from KTH under the supervision of Lionel Mathelin, Onofrio Semeraro and [Rémy Hosseinkhan-Boucher](https://rehoss.github.io/). We worked on controlling Delay Dynamical System with Reinforcement Learning in Continuous time. Find the [manuscript here](/assets/paper_reports/master_thesis_joachim_jobard_v2.pdf) and the [presentation slides here](/assets/presentations/presentation_internship_joachim_jobard_v7.pdf). 
 
