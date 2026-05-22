@@ -2,6 +2,8 @@
 main:
   - title: "Short Bio"
     url: /shortbio/
+  - title: "Master Thesis"
+    url: /internship_at_tau/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
    # - title: "Blog Posts"
