@@ -4,7 +4,7 @@ title: "Short Bio"
 classes: wide
 ---
 
-I recently finished my internship between [INRIA team TAU (TAckling the Unexpected)](https://www.inria.fr/fr/tau) & [LISN team A&O (Algorithms and Optimization)](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/apprentissage-et-optimisation-2/) under the supervision of Lionel Mathelin, Onofrio Semeraro and [Rémy Hosseinkhan-Boucher](https://rehoss.github.io/). You can find more [here]()
+I recently finished my internship between [INRIA team TAU (TAckling the Unexpected)](https://www.inria.fr/fr/tau) & [LISN team A&O (Algorithms and Optimization)](https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/algorithmes-apprentissage-et-calcul/apprentissage-et-optimisation-2/) under the supervision of Lionel Mathelin, Onofrio Semeraro and [Rémy Hosseinkhan-Boucher](https://rehoss.github.io/). You can find more [here](/_pages/internship_at_tau.md)
 
 This internship was the final validation step for my [Master of Science in Computer Science & Electrical Engineering](https://www.kth.se/en/studies/master/systems-control-robotics/msc-systems-control-and-robotics-1.8733) from [Küngliga Tekniska Högskolan (KTH, Stockholm)](https://www.kth.se/en). I also hold an engineering degree (Master of Science) from [Centrale Lyon](https://www.ec-lyon.fr/) where I studied Maths, CS, Physics and Mechanics. 
 
