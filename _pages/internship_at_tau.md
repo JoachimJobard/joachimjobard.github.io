@@ -4,6 +4,14 @@ title: "Master Thesis"
 classes: wide
 ---
 
+<script>
+window.MathJax = {
+	tex: {inlineMath: [['$','$'], ['\\(','\\)']]},
+	options: {skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']}
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # Controlling Delayed Systems with Continuous RL
 
 I conducted my Master Thesis from KTH under the supervision of Lionel Mathelin, Onofrio Semeraro and [Rémy Hosseinkhan-Boucher](https://rehoss.github.io/). We worked on controlling Delay Dynamical System with Reinforcement Learning in Continuous time. Find the [manuscript here](/assets/paper_reports/master_thesis_joachim_jobard_v2.pdf) and the [presentation slides here](/assets/presentations/presentation_internship_joachim_jobard_v7.pdf). 
